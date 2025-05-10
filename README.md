@@ -1,2 +1,2 @@
 # jxpert-pokedex
-# DIEGOO
+# DIEGOO es bobo
